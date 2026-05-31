@@ -1,4 +1,4 @@
-# EvaluatingAerialVisualIntelligence
+# Evaluating Aerial Visual Intelligence
 
 **data avaliable upon request**
 
