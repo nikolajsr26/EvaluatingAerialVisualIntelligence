@@ -20,7 +20,7 @@ The thesis investigates whether physically generated synthetic replica imagery c
 
 ### Data
 
-The image data is not included in this repository because of size. Any and all data is available upon request.
+The image data is not included in this repository because of size. Any and all data is available upon request. Conetact nisoe24@student.sdu.dk or siole24@student.sdu.dk
 
 ### Reproducing the results
 
