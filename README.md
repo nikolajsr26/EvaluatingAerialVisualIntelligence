@@ -10,7 +10,7 @@ This repository contains the code accompanying the master's thesis
 <div align="center">
 
 > "**Evaluating Aerial Visual Intelligence:** <br>
-*Assessing Synthetic Replica and Diffusion-Augmented Data for Authentic Fine-Grained Tank Classification*" <br>
+*A Sim-to-Real Study Using Synthetic, and Generative Diffusion-Augmented Deep Learning Methods*" <br>
 by N. L. Sørensen & S. V. J. Olesen, <br>
 University of Southern Denmark, <br>
 2026.<br>
